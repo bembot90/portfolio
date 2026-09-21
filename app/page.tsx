@@ -80,13 +80,6 @@ export default function Personal() {
           </p>
           <br />
           <p>
-            I like software with a point of view — software that takes a stand,
-            that isn't afraid to pick a side. Software that makes you feel
-            things. Not like crying-in-the-shower things, but the good kind —
-            like ‘wow, I’m part of something cool’ things.
-          </p>
-          <br />
-          <p>
             I've worked with a variety of companies, from startups like{' '}
             <a href="https://www.quilt.com/">Quilt</a>, and{' '}
             <a href="https://home.nest.com/">Nest</a> to large companies like{' '}
