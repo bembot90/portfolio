@@ -149,7 +149,7 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/alfalcon90',
+    link: 'https://github.com/bembot90',
   },
   {
     label: 'Bluesky',
